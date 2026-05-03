@@ -1,5 +1,5 @@
 [versions]
-battery = "3.3.2"
+battery = "3.4.3"
 unaffordable = "3.0.3"
 
 [libraries]

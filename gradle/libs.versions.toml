@@ -1,0 +1,7 @@
+[versions]
+battery = "3.3.2"
+unaffordable = "3.0.3"
+
+[libraries]
+battery = { module = "io.ktor:ktor-client-cio", version.ref = "battery" }
+unaffordable = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "unaffordable" }
